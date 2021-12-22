@@ -1265,11 +1265,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.85"
-     inkscape:cx="175.29412"
-     inkscape:cy="587.64706"
+     inkscape:zoom="0.79"
+     inkscape:cx="402.53165"
+     inkscape:cy="519.62025"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer14"
      showgrid="false"
      units="in"
      inkscape:window-width="1581"
@@ -1282,7 +1282,7 @@
      inkscape:snap-midpoints="false"
      inkscape:snap-others="true"
      inkscape:snap-grids="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="false"
@@ -1290,7 +1290,7 @@
      inkscape:measure-end="236.22,687.874"
      inkscape:object-paths="true"
      inkscape:document-rotation="0"
-     inkscape:snap-bbox="true"
+     inkscape:snap-bbox="false"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:object-nodes="true"
@@ -1375,7 +1375,7 @@
        orientation="1,0"
        id="guide10149" />
     <sodipodi:guide
-       position="3.4448771,7.2598424"
+       position="3.4449022,7.1809159"
        orientation="0,-1"
        id="guide11190" />
     <sodipodi:guide
@@ -1395,11 +1395,11 @@
        orientation="0,-1"
        id="guide26864" />
     <sodipodi:guide
-       position="3.4448771,5.291338"
+       position="3.4448817,5.2125988"
        orientation="0,-1"
        id="guide11308" />
     <sodipodi:guide
-       position="3.4448771,6.0787392"
+       position="2.4606559,6.1572934"
        orientation="0,-1"
        id="guide11310" />
     <sodipodi:guide
@@ -3917,7 +3917,7 @@
          r="0.17716536" />
     </g>
     <g
-       transform="translate(9.3504141,-1.8155614)"
+       transform="translate(9.3504141,-1.7478448)"
        id="g13371"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
@@ -3937,7 +3937,7 @@
     </g>
     <g
        id="g13461"
-       transform="translate(8.3661678,-0.63445851)"
+       transform="translate(8.3661678,-0.72422229)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -3956,7 +3956,7 @@
     </g>
     <g
        id="g13493"
-       transform="translate(9.3503891,0.14173314)"
+       transform="translate(9.3503891,0.2204733)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -5737,7 +5737,7 @@
          id="tspan13343"
          sodipodi:role="line">FREQ</tspan></text>
     <circle
-       cy="3.7513671"
+       cy="3.8190837"
        cx="3.4449067"
        id="circle13373"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5747,7 +5747,7 @@
        inkscape:export-ydpi="101.46577" />
     <text
        id="text13377"
-       y="4.4403434"
+       y="4.50806"
        x="3.4449067"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
@@ -5755,12 +5755,12 @@
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="4.4403434"
+         y="4.50806"
          x="3.4449067"
          id="tspan13375"
          sodipodi:role="line">FREQ</tspan></text>
     <circle
-       cy="4.9324694"
+       cy="4.8427057"
        cx="2.4606605"
        id="circle13463"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5770,7 +5770,7 @@
        inkscape:export-ydpi="101.46577" />
     <text
        id="text13467"
-       y="5.5427055"
+       y="5.4529419"
        x="2.4606605"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
@@ -5778,12 +5778,12 @@
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="5.5427055"
+         y="5.4529419"
          x="2.4606605"
          id="tspan13465"
          sodipodi:role="line">SHAPE</tspan></text>
     <circle
-       cy="5.7086611"
+       cy="5.7874012"
        cx="3.4448817"
        id="circle13495"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5793,7 +5793,7 @@
        inkscape:export-ydpi="101.46577" />
     <text
        id="text13499"
-       y="6.3188972"
+       y="6.3976374"
        x="3.4448817"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
@@ -5801,7 +5801,7 @@
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="6.3188972"
+         y="6.3976374"
          x="3.4448817"
          id="tspan13497"
          sodipodi:role="line">SHAPE</tspan></text>
@@ -6811,7 +6811,7 @@
     <g
        id="g13385"
        style="display:inline"
-       transform="translate(10.334669,-1.3667511)"
+       transform="translate(10.334669,-1.2990345)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -6835,7 +6835,7 @@
     <g
        id="g13475"
        style="display:inline"
-       transform="translate(9.3504229,-0.18564801)"
+       transform="translate(9.3504229,-0.27541179)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -6859,7 +6859,7 @@
     <g
        id="g13507"
        style="display:inline"
-       transform="translate(10.334644,0.59054364)"
+       transform="translate(10.334644,0.6692838)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -8035,7 +8035,7 @@
     </g>
     <g
        id="g13395"
-       transform="matrix(-0.72831063,0,0,0.72831063,5.1668592,-1.3968957)"
+       transform="matrix(-0.72831063,0,0,0.72831063,5.1668592,-1.3181555)"
        style="display:inline"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
@@ -8066,7 +8066,7 @@
     <g
        style="display:inline"
        id="g13485"
-       transform="matrix(-0.62017717,0,0,0.62017717,3.9269509,0.54857799)"
+       transform="matrix(-0.62017717,0,0,0.62017717,3.9269509,0.46983783)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -8096,7 +8096,7 @@
     <g
        style="display:inline"
        id="g13517"
-       transform="matrix(-0.62017717,0,0,0.62017717,4.9111722,1.3247696)"
+       transform="matrix(-0.62017717,0,0,0.62017717,4.9111722,1.4035098)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
