@@ -18,6 +18,17 @@
      id="defs2">
     <inkscape:path-effect
        effect="bspline"
+       id="path-effect2854"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
        id="path-effect25783"
        is_visible="true"
        lpeversion="1"
@@ -1265,9 +1276,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.79"
-     inkscape:cx="402.53165"
-     inkscape:cy="519.62025"
+     inkscape:zoom="0.60104076"
+     inkscape:cx="394.31602"
+     inkscape:cy="473.3456"
      inkscape:document-units="mm"
      inkscape:current-layer="layer14"
      showgrid="false"
@@ -1282,29 +1293,29 @@
      inkscape:snap-midpoints="false"
      inkscape:snap-others="true"
      inkscape:snap-grids="true"
-     inkscape:snap-nodes="true"
+     inkscape:snap-nodes="false"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="false"
      inkscape:measure-start="236.22,816.378"
      inkscape:measure-end="236.22,687.874"
-     inkscape:object-paths="true"
+     inkscape:object-paths="false"
      inkscape:document-rotation="0"
-     inkscape:snap-bbox="false"
+     inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:object-nodes="false"
      inkscape:pagecheckerboard="0"
-     inkscape:snap-intersection-paths="false"
+     inkscape:snap-intersection-paths="true"
      inkscape:snap-global="true"
      inkscape:bbox-nodes="false"
-     inkscape:snap-bbox-midpoints="false">
+     inkscape:snap-bbox-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid10120"
        units="mm"
-       spacingx="0.039370079"
-       spacingy="0.039370079"
+       spacingx="0.24606299"
+       spacingy="0.098425197"
        empspacing="5"
        originx="0"
        originy="0" />
@@ -1334,11 +1345,6 @@
        id="guide1433"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="2.9527559,9.3307087"
-       orientation="1,0"
-       id="guide1435"
-       inkscape:locked="false" />
-    <sodipodi:guide
        position="1.9291339,1.5905511"
        orientation="0,-1"
        id="guide3116" />
@@ -1351,11 +1357,11 @@
        orientation="0,-1"
        id="guide3120" />
     <sodipodi:guide
-       position="1.9291339,4.1102362"
+       position="3.4448772,4.1102364"
        orientation="0,-1"
        id="guide3122" />
     <sodipodi:guide
-       position="1.968504,4.6220472"
+       position="2.7066915,4.9086688"
        orientation="0,-1"
        id="guide3124" />
     <sodipodi:guide
@@ -1375,7 +1381,7 @@
        orientation="1,0"
        id="guide10149" />
     <sodipodi:guide
-       position="3.4449022,7.1809159"
+       position="2.7066929,7.3582677"
        orientation="0,-1"
        id="guide11190" />
     <sodipodi:guide
@@ -1395,13 +1401,9 @@
        orientation="0,-1"
        id="guide26864" />
     <sodipodi:guide
-       position="3.4448817,5.2125988"
+       position="3.4448819,6.0787403"
        orientation="0,-1"
        id="guide11308" />
-    <sodipodi:guide
-       position="2.4606559,6.1572934"
-       orientation="0,-1"
-       id="guide11310" />
     <sodipodi:guide
        position="3.4448771,8.0472436"
        orientation="0,-1"
@@ -1410,6 +1412,14 @@
        position="1.9462079,1.6692892"
        orientation="0,-1"
        id="guide20215" />
+    <sodipodi:guide
+       position="2.7066929,5.0944883"
+       orientation="1,0"
+       id="guide8159" />
+    <sodipodi:guide
+       position="4.1830708,5.0944883"
+       orientation="1,0"
+       id="guide8161" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -1431,12 +1441,12 @@
        y="1.9685047"
        x="1.968504"
        height="7.8740158"
-       width="1.968504"
+       width="2.9527559"
        id="rect2111-6"
        style="display:inline;opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png" />
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png" />
   </g>
   <g
      inkscape:label="Standards"
@@ -3866,15 +3876,15 @@
     <path
        inkscape:connector-curvature="0"
        id="path10938"
-       d="m 3.1338582,6.5787493 h 0.622047 V 7.2007968 H 3.2992122 L 3.1338582,7.0433165 Z"
+       d="m 4.1181101,7.5630012 h 0.622047 V 8.1850487 H 4.2834641 L 4.1181101,8.0275684 Z"
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577" />
     <circle
        r="0.21653543"
-       cy="6.8897762"
-       cx="3.4448817"
+       cy="7.8740282"
+       cx="4.4291334"
        id="circle10940"
        style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
@@ -3883,22 +3893,22 @@
     <path
        inkscape:connector-curvature="0"
        id="path10942"
-       d="m 2.1496062,6.5787493 h 0.622047 V 7.2007968 H 2.3149602 L 2.1496062,7.0433165 Z"
+       d="m 4.1181101,8.5472532 h 0.622047 V 9.1693007 H 4.2834641 L 4.1181101,9.0118204 Z"
        style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577" />
     <circle
        r="0.21653543"
-       cy="6.8897762"
-       cx="2.4606297"
+       cy="8.8582802"
+       cx="4.4291334"
        id="circle10944"
        style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577" />
     <g
-       transform="translate(8.3661368,-2.6141692)"
+       transform="translate(8.6122001,-1.9251962)"
        id="g13339"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
@@ -3917,7 +3927,7 @@
          r="0.17716536" />
     </g>
     <g
-       transform="translate(9.3504141,-1.7478448)"
+       transform="translate(8.6122004,0.52441077)"
        id="g13371"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
@@ -3937,7 +3947,7 @@
     </g>
     <g
        id="g13461"
-       transform="translate(8.3661678,-0.72422229)"
+       transform="translate(10.088578,-1.9251919)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -3956,7 +3966,7 @@
     </g>
     <g
        id="g13493"
-       transform="translate(9.3503891,0.2204733)"
+       transform="translate(10.088583,0.53543323)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -3983,32 +3993,17 @@
        y="1.9685049"
        x="1.9685032"
        height="7.8740039"
-       width="1.968504"
+       width="2.9527559"
        id="rect829-4"
        style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.0104167"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.14855px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;vector-effect:non-scaling-stroke;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:3.25521e-06;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.993004;-inkscape-stroke:hairline"
-       x="3.3139846"
-       y="8.6573839"
-       id="text36721"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       transform="scale(0.89129452,1.1219636)"><tspan
-         sodipodi:role="line"
-         id="tspan36719"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.173307px;font-family:Limelight;-inkscape-font-specification:'Limelight, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:3.25521e-06"
-         x="3.3139846"
-         y="8.6573839">ANALOG OUTPUT</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path1048"
-       d="M 1.9685037,2.3622049 H 3.9370076"
+       d="M 1.9685036,2.3622049 H 4.9212595"
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0312501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"
@@ -4016,7 +4011,7 @@
     <path
        sodipodi:nodetypes="cc"
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 1.9685037,9.4488192 H 3.9370076"
+       d="M 1.9685036,9.4488189 H 4.9212595"
        id="path1050"
        inkscape:connector-curvature="0"
        inkscape:export-xdpi="101.46577"
@@ -4045,14 +4040,14 @@
     <text
        xml:space="preserve"
        style="font-size:0.194444px;line-height:1;font-family:Limelight;-inkscape-font-specification:Limelight;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#ff0000;stroke-width:0.01;stroke-linejoin:bevel;stop-color:#000000"
-       x="2.9494803"
+       x="3.4416063"
        y="2.232954"
        id="text3657"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
-         x="2.9494803"
+         x="3.4416063"
          y="2.232954"
          style="font-size:0.194444px;fill:#000000;stroke-width:0.01"
          id="tspan5448">DUAL LFO</tspan></text>
@@ -4070,17 +4065,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.166667px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;vector-effect:non-scaling-stroke;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:3.25521e-06;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.993004;-inkscape-stroke:hairline"
-       x="2.9539902"
-       y="10.72308"
+       x="3.4461114"
+       y="9.7132692"
        id="text11374"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Attenuverters/Images/attenuverters_panel_art.png"
-       inkscape:export-xdpi="999.99963"
-       inkscape:export-ydpi="999.99963"><tspan
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
          id="tspan11372"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.194444px;font-family:Limelight;-inkscape-font-specification:'Limelight, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:3.25521e-06"
-         x="2.9539902"
-         y="10.72308">ANALOG OUTPUT</tspan></text>
+         x="3.4461114"
+         y="9.7132692">ANALOG OUTPUT</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path8330"
+       d="M 1.9684992,4.8228347 H 4.9212551"
+       style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0312501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4090,10 +4094,49 @@
     <rect
        style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.993004;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
        id="rect13675"
-       width="1.8897631"
-       height="2.9527538"
+       width="2.8749316"
+       height="2.0689452"
        x="2.007874"
-       y="6.4566932"
+       y="7.3405023"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 2.0078746,8.3661442 c 0,0 2.8740166,0 2.8740166,0"
+       id="path2852"
+       inkscape:path-effect="#path-effect2854"
+       inkscape:original-d="M 2.0078746,8.3661442 H 4.8818912"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <rect
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.993004;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       id="rect3017"
+       width="0.39370093"
+       height="0.19685046"
+       x="2.2637801"
+       y="8.2677183"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <rect
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.993004;-inkscape-stroke:none;stop-color:#000000"
+       id="rect3017-5"
+       width="0.39370093"
+       height="0.19685046"
+       x="3.2480314"
+       y="8.2677164"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
+    <rect
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.993004;-inkscape-stroke:none;stop-color:#000000"
+       id="rect3017-5-3"
+       width="0.39370093"
+       height="0.19685046"
+       x="4.2322831"
+       y="8.2677164"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577" />
@@ -5492,8 +5535,11 @@
        r="0.098425195"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4692"
-       cx="-0.59054977"
-       cy="2.56039" />
+       cx="2.7066929"
+       cy="2.8543308"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5698,8 +5744,8 @@
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle10946"
-       cx="3.4448814"
-       cy="6.8897743"
+       cx="4.4291334"
+       cy="7.8740263"
        r="0.27559054"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"
@@ -5707,15 +5753,15 @@
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle10952"
-       cx="2.4606295"
-       cy="6.8897743"
+       cx="4.4291334"
+       cy="8.8582783"
        r="0.27559054"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png" />
     <circle
-       cy="2.9527593"
-       cx="2.4606295"
+       cy="3.6417322"
+       cx="2.7066929"
        id="circle13341"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
@@ -5724,21 +5770,21 @@
        inkscape:export-ydpi="101.46577" />
     <text
        id="text13345"
-       y="3.6417356"
-       x="2.4606295"
+       y="4.4291334"
+       x="2.7066929"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="3.6417356"
-         x="2.4606295"
+         y="4.4291334"
+         x="2.7066929"
          id="tspan13343"
          sodipodi:role="line">FREQ</tspan></text>
     <circle
-       cy="3.8190837"
-       cx="3.4449067"
+       cy="6.0913391"
+       cx="2.7066929"
        id="circle13373"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
@@ -5747,21 +5793,21 @@
        inkscape:export-ydpi="101.46577" />
     <text
        id="text13377"
-       y="4.50806"
-       x="3.4449067"
+       y="6.8897638"
+       x="2.7066929"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="4.50806"
-         x="3.4449067"
+         y="6.8897638"
+         x="2.7066929"
          id="tspan13375"
          sodipodi:role="line">FREQ</tspan></text>
     <circle
-       cy="4.8427057"
-       cx="2.4606605"
+       cy="3.641736"
+       cx="4.1830726"
        id="circle13463"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
@@ -5770,21 +5816,21 @@
        inkscape:export-ydpi="101.46577" />
     <text
        id="text13467"
-       y="5.4529419"
-       x="2.4606605"
+       y="4.330708"
+       x="4.1830707"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="5.4529419"
-         x="2.4606605"
+         y="4.330708"
+         x="4.1830707"
          id="tspan13465"
          sodipodi:role="line">SHAPE</tspan></text>
     <circle
-       cy="5.7874012"
-       cx="3.4448817"
+       cy="6.1023612"
+       cx="4.1830754"
        id="circle13495"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
@@ -5793,35 +5839,95 @@
        inkscape:export-ydpi="101.46577" />
     <text
        id="text13499"
-       y="6.3976374"
-       x="3.4448817"
+       y="6.7913384"
+       x="4.1830707"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
-         y="6.3976374"
-         x="3.4448817"
+         y="6.7913384"
+         x="4.1830707"
          id="tspan13497"
          sodipodi:role="line">SHAPE</tspan></text>
+    <text
+       id="text13499-1"
+       y="7.9990158"
+       x="2.9527557"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167"
+         y="7.9990158"
+         x="2.9527557"
+         id="tspan13497-2"
+         sodipodi:role="line"><tspan
+           style="font-size:0.333333px"
+           id="tspan24607">A</tspan></tspan></text>
+    <text
+       id="text13499-1-1"
+       y="2.8809054"
+       x="3.4448769"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.333333px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167"
+         y="2.8809054"
+         x="3.4448769"
+         id="tspan13497-2-8"
+         sodipodi:role="line">A</tspan></text>
+    <text
+       id="text13499-1-1-7"
+       y="5.338202"
+       x="3.4448817"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.333333px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167"
+         y="5.338202"
+         x="3.4448817"
+         id="tspan13497-2-8-9"
+         sodipodi:role="line">B</tspan></text>
+    <text
+       id="text13499-1-9"
+       y="8.9799347"
+       x="2.9527557"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167"
+         y="8.9799347"
+         x="2.9527557"
+         id="tspan13497-2-3"
+         sodipodi:role="line"><tspan
+           style="font-size:0.333333px"
+           id="tspan27137">B</tspan></tspan></text>
     <path
        style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.4015748,7.3622048 v -0.15748 l -0.3149607,0.15748"
+       d="m 2.2988308,7.5590549 v -0.15748 l 0.3149607,0.15748"
        id="path1127"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png" />
     <path
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 3.5125743,7.3622048 v -0.15748 l 0.3149607,0.15748"
+       d="m 2.6137916,9.3307083 v -0.15748 l -0.3149608,0.15748"
        id="path1129"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png" />
     <path
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 2.4015748,9.3307108 V 9.1732305 l -0.07874,-2.1e-6 V 9.3307108 H 2.0866142 V 9.1732305"
+       d="M 4.2716535,7.559056 V 7.4015757 l 0.07874,-2.1e-6 V 7.559056 H 4.5866141 V 7.4015757"
        id="path23476"
        sodipodi:nodetypes="ccccsc"
        inkscape:export-xdpi="101.46577"
@@ -5829,7 +5935,7 @@
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png" />
     <path
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 3.464567,9.1732284 v 0.1574803 l 0.07874,2.1e-6 V 9.1732284 h 0.2362206 v 0.1574803"
+       d="m 4.5866141,9.1732271 v 0.1574803 l -0.07874,2.1e-6 V 9.1732271 H 4.2716535 v 0.1574803"
        id="path25081"
        sodipodi:nodetypes="ccccsc"
        inkscape:export-xdpi="101.46577"
@@ -5837,7 +5943,7 @@
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png" />
     <path
        style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.4015748,8.3464567 c -0.07874,0 3e-7,-0.1574803 -0.07874,-0.1574803 -0.07874,0 -0.1574803,0.1574803 -0.2362207,0.1574803"
+       d="m 3.2874015,7.559055 c 0.07874,0 -3e-7,-0.1574803 0.07874,-0.1574803 0.07874,0 0.1574803,0.1574803 0.2362207,0.1574803"
        id="path25327"
        sodipodi:nodetypes="csc"
        inkscape:export-xdpi="101.46577"
@@ -5845,64 +5951,15 @@
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png" />
     <path
        style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 3.5125745,8.3464567 c 0.07874,0 -3e-7,-0.1574803 0.07874,-0.1574803 0.07874,0 0.1574803,0.1574803 0.2362207,0.1574803"
+       d="m 3.6023622,9.3307085 c -0.07874,0 3e-7,-0.1574803 -0.07874,-0.1574803 -0.07874,0 -0.1574803,0.1574803 -0.2362207,0.1574803"
        id="path25629"
        sodipodi:nodetypes="csc"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png" />
     <path
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m 2.9527569,2.3622055 c 0,0 0,7.0866165 0,7.0866165"
-       id="path25664"
-       inkscape:path-effect="#path-effect25666"
-       inkscape:original-d="M 2.9527569,2.3622055 V 9.448822"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <path
-       style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m 2.9527559,6.456693 c 0,0 10e-7,2.9527589 10e-7,2.9527589"
-       id="path25781"
-       inkscape:path-effect="#path-effect25783"
-       inkscape:original-d="m 2.9527559,6.456693 10e-7,2.9527589"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <rect
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.993004;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       id="rect26072"
-       width="0.39370093"
-       height="0.23622055"
-       x="2.7559063"
-       y="7.1653566"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <rect
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.993004;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       id="rect26118"
-       width="0.39370093"
-       height="0.23622055"
-       x="2.7559054"
-       y="8.1496067"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <rect
-       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0208333;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.993004;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       id="rect26200"
-       width="0.39370093"
-       height="0.23622055"
-       x="2.7559054"
-       y="9.1338587"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
-    <path
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 3.1102364,9.3307108 V 9.1732305 l -0.1574801,-2.1e-6 v 0.1574803 l -0.1574805,2.1e-6 V 9.1732305"
+       d="M 4.2716535,8.4448828 V 8.2874025 l 0.1574801,-2.1e-6 v 0.1574803 l 0.1574805,2.1e-6 V 8.2874025"
        id="path25112"
        sodipodi:nodetypes="ccccsc"
        inkscape:export-xdpi="101.46577"
@@ -5910,7 +5967,7 @@
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png" />
     <path
        style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.7952755,8.3464567 c 0.07874,0 0.07874,-0.1574803 0.1574804,-0.1574803 0.07874,0 0.07874,0.1574803 0.1574804,0.1574803"
+       d="m 3.6023623,8.4448817 c -0.07874,0 -0.07874,-0.1574803 -0.1574804,-0.1574803 -0.07874,0 -0.07874,0.1574803 -0.1574805,0.1574803"
        id="path1125"
        sodipodi:nodetypes="csc"
        inkscape:export-xdpi="101.46577"
@@ -5918,11 +5975,20 @@
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png" />
     <path
        style="display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 2.7952755,7.3622048 2.9527559,7.2047245 3.1102363,7.3622048"
+       d="M 2.6137914,8.4448818 2.456311,8.2874015 2.2988306,8.4448818"
        id="path1123"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png" />
+    <circle
+       r="0.098425195"
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle8149"
+       cx="2.7066929"
+       cy="5.3162875"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6109,18 +6175,27 @@
        r="0.098425195"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4698"
-       cx="-0.59054977"
-       cy="2.56039" />
+       cx="2.7066929"
+       cy="2.8543308"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m -0.59054985,2.5210198 v 0.07874"
+       d="m 2.7066928,2.8149605 v 0.07874"
        id="path4700"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m -0.55117965,2.5590626 h -0.07874"
+       d="M 2.746063,2.8530033 H 2.667323"
        id="path4702"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <circle
        r="0.062992126"
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6165,25 +6240,25 @@
        cx="2.4606309"
        cy="8.8582735"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.4606269,8.7598481 V 8.9566986"
        id="path2553"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590519,8.8582733 h -0.19685"
        id="path2555"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <g
        id="g2461"
        style="display:inline"
@@ -6255,25 +6330,25 @@
        cx="3.4448814"
        cy="8.8582783"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 3.4448773,8.7598526 V 8.9567031"
        id="path3292"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433023,8.8582778 h -0.19685"
        id="path3294"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <g
        id="g6665"
        transform="translate(3.5433079,5.0433001)"
@@ -6367,10 +6442,10 @@
     </g>
     <g
        id="g2598"
-       transform="translate(0.00787418)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       transform="translate(0.99212615)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0"
@@ -6397,9 +6472,9 @@
        id="g2598-9"
        transform="translate(-1.6141731)"
        style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-6"
@@ -6424,11 +6499,11 @@
     </g>
     <g
        id="g2598-0"
-       transform="translate(0.00787418,7.6377954)"
+       transform="translate(0.99212615,7.6377954)"
        style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-3"
@@ -6455,9 +6530,9 @@
        id="g2598-4"
        transform="translate(-1.6141731,7.6377951)"
        style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-4"
@@ -6554,25 +6629,25 @@
        cx="3.4448814"
        cy="7.8740263"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.4448773,7.7756011 v 0.19685"
        id="path19218"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433023,7.8740261 h -0.19685"
        id="path19220"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <g
        id="g3455-5"
        style="display:inline"
@@ -6715,82 +6790,82 @@
        cx="2.4606295"
        cy="7.8740263"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.4606253,7.7756011 v 0.19685"
        id="path4322"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590503,7.8740261 h -0.19685"
        id="path4324"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle10958"
-       cx="3.4448814"
-       cy="6.8897743"
+       cx="4.4291334"
+       cy="7.8740263"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 3.4448773,6.7913491 v 0.19685"
+       d="m 4.4291292,7.775601 v 0.19685"
        id="path10960"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 3.5433023,6.8897741 h -0.19685"
+       d="m 4.5275542,7.874026 h -0.19685"
        id="path10962"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle10964"
-       cx="2.4606295"
-       cy="6.8897743"
+       cx="4.4291334"
+       cy="8.8582783"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.4606253,6.7913491 v 0.19685"
+       d="m 4.4291292,8.759853 v 0.19685"
        id="path10966"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2.5590503,6.8897741 h -0.19685"
+       d="m 4.5275542,8.858278 h -0.19685"
        id="path10968"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
     <g
        id="g13353"
        style="display:inline"
-       transform="translate(9.3503918,-2.1653589)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       transform="translate(9.5964551,-1.4763859)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6811,10 +6886,10 @@
     <g
        id="g13385"
        style="display:inline"
-       transform="translate(10.334669,-1.2990345)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       transform="translate(9.5964553,0.97322107)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6835,10 +6910,10 @@
     <g
        id="g13475"
        style="display:inline"
-       transform="translate(9.3504229,-0.27541179)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       transform="translate(11.072833,-1.4763814)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6859,10 +6934,10 @@
     <g
        id="g13507"
        style="display:inline"
-       transform="translate(10.334644,0.6692838)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       transform="translate(11.072838,0.98424373)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6880,6 +6955,31 @@
          id="path13505"
          inkscape:connector-curvature="0" />
     </g>
+    <circle
+       r="0.098425195"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle8151"
+       cx="2.7066929"
+       cy="5.3162875"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2.7066927,5.2769178 v 0.07874"
+       id="path8153"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 2.7460629,5.3149606 h -0.07874"
+       id="path8155"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel_holes.png"
+       inkscape:export-xdpi="1014.6577"
+       inkscape:export-ydpi="1014.6577" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7196,6 +7296,66 @@
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
+       id="g13395"
+       transform="matrix(-0.72831063,0,0,0.72831063,4.4286455,0.95410007)"
+       style="display:inline"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
+      <circle
+         r="0.61374104"
+         cy="7.0687695"
+         cx="2.3643098"
+         id="circle13387"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path13389"
+         d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
+         style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.39753675"
+         cy="7.0687723"
+         cx="2.3643107"
+         id="circle13391"
+         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path13393"
+         d="M 2.3622056,6.4724214 V 6.6692718"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline;opacity:1"
+       id="g4283-9"
+       transform="matrix(-0.85870685,0,0,0.85870685,4.7369427,0.02132816)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
+      <circle
+         r="0.61374104"
+         cy="7.0687695"
+         cx="2.3643098"
+         id="circle4275-7"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4277-7"
+         d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
+         style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.39753675"
+         cy="7.0687723"
+         cx="2.3643107"
+         id="circle4279-6"
+         style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4281-4"
+         d="M 2.3622056,6.4724214 V 6.6692718"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
        style="display:inline"
        transform="matrix(-0.72831063,0,0,0.72831063,-1.8213534,6.269068)"
        id="g4293">
@@ -7257,11 +7417,14 @@
        cy="2.56039"
        r="0.059055239" />
     <circle
-       cy="2.56039"
-       cx="-0.59054977"
+       cy="2.8543308"
+       cx="2.7066929"
        id="circle4706"
        style="display:inline;opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       r="0.098425187" />
+       r="0.098425187"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <g
        transform="matrix(1.000002,0,0,1.000002,3.0154229,2.8880793)"
        style="display:inline"
@@ -7912,7 +8075,7 @@
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(1.000002,0,0,1.000002,3.9996733,0.91957973)"
+       transform="matrix(1.000002,0,0,1.000002,4.9839252,1.9038317)"
        style="display:inline"
        id="g10979"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
@@ -7958,7 +8121,7 @@
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       transform="matrix(1.000002,0,0,1.000002,3.0154213,0.91957973)"
+       transform="matrix(1.000002,0,0,1.000002,4.9839252,2.8880837)"
        style="display:inline"
        id="g10989"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
@@ -8005,7 +8168,7 @@
     </g>
     <g
        id="g13363"
-       transform="matrix(-0.72831063,0,0,0.72831063,4.1825819,-2.1955035)"
+       transform="matrix(-0.72831063,0,0,0.72831063,4.4286452,-1.5065305)"
        style="display:inline"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
@@ -8034,9 +8197,9 @@
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g13395"
-       transform="matrix(-0.72831063,0,0,0.72831063,5.1668592,-1.3181555)"
        style="display:inline"
+       id="g28361"
+       transform="matrix(-0.85870685,0,0,0.85870685,4.7369419,-2.4282681)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -8044,29 +8207,29 @@
          r="0.61374104"
          cy="7.0687695"
          cx="2.3643098"
-         id="circle13387"
+         id="circle28353"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
-         id="path13389"
+         id="path28355"
          d="m 2.2736434,6.5666128 0.181333,-10e-7 0.030222,0.068581 0.1426661,0.068693 0.072459,-0.019142 0.1130813,0.1417544 -0.034766,0.066393 0.034612,0.1514862 0.06015,0.044707 -0.040299,0.1767984 -0.073582,0.014226 -0.096838,0.1215243 0.00256,0.074901 -0.1633405,0.07875 -0.057007,-0.048651 -0.1611692,-1e-6 -0.057007,0.048651 -0.1633405,-0.07875 0.00256,-0.074901 -0.096838,-0.1215246 -0.073582,-0.014226 -0.040299,-0.1767984 0.06015,-0.044707 0.034612,-0.1514858 -0.034766,-0.066393 0.1130812,-0.1417542 0.072459,0.019142 0.1426662,-0.068691 z"
          style="opacity:0.884;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <circle
          r="0.39753675"
          cy="7.0687723"
          cx="2.3643107"
-         id="circle13391"
+         id="circle28357"
          style="opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:connector-curvature="0"
-         id="path13393"
+         id="path28359"
          d="M 2.3622056,6.4724214 V 6.6692718"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        style="display:inline"
        id="g13485"
-       transform="matrix(-0.62017717,0,0,0.62017717,3.9269509,0.46983783)"
+       transform="matrix(-0.62017717,0,0,0.62017717,5.6493627,-0.73113186)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -8096,7 +8259,7 @@
     <g
        style="display:inline"
        id="g13517"
-       transform="matrix(-0.62017717,0,0,0.62017717,4.9111722,1.4035098)"
+       transform="matrix(-0.62017717,0,0,0.62017717,5.6493658,1.7184697)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -8123,12 +8286,21 @@
          d="M 2.3622056,6.4724214 V 6.6692718"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
+    <circle
+       cy="5.3162875"
+       cx="2.7066929"
+       id="circle8157"
+       style="display:inline;opacity:1;vector-effect:none;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       r="0.098425187"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Images/kdlfo_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Notes"
-     style="display:inline">
+     style="display:none">
     <text
        id="text1298"
        y="4.414402"
