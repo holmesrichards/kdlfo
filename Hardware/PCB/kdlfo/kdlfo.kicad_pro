@@ -86,8 +86,8 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -121,6 +121,7 @@
       },
       "track_widths": [
         0.0,
+        0.25,
         0.75
       ],
       "via_dimensions": [
@@ -472,6 +473,14 @@
     [
       "d5d0b0a9-eb22-4bdd-9cda-96a2b8d0eb11",
       ""
+    ],
+    [
+      "dd04668a-5239-4bd2-ae67-038a463e12dc",
+      "LFO A"
+    ],
+    [
+      "8c42dada-182a-49c1-bf92-143204f6b7ba",
+      "LFO B"
     ]
   ],
   "text_variables": {}
