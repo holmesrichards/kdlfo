@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "kdlfo_panel")(type "KiCad")(uri "/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/LFO/Hardware/Panel/kdlfo_panel/kdlfo_panel.pretty")(options "")(descr ""))
+)
