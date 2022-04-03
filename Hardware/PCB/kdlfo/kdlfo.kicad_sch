@@ -1101,19 +1101,19 @@
     (uuid fe8094bb-fee4-4f71-9850-844858fba5f9)
   )
 
-  (text "SHAPE A" (at 151.765 23.495 0)
+  (text "SHAPE A" (at 154.94 24.13 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0ecb1088-326b-4c6d-a19c-52f9d67dcd63)
   )
-  (text "FREQUENCY B" (at 149.225 111.125 0)
+  (text "FREQUENCY B" (at 149.86 111.76 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 39d9ec15-303f-4b3a-a5dd-b3a791db7904)
   )
-  (text "SHAPE B" (at 155.575 92.71 0)
+  (text "SHAPE B" (at 154.94 92.71 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ab111f0e-5b47-4d8e-a11f-94cd6e9f6e4d)
   )
-  (text "FREQUENCY A" (at 149.225 41.275 0)
+  (text "FREQUENCY A" (at 149.86 41.91 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bc4ce212-81d4-4896-9a69-47f7d5137cb4)
   )
@@ -2211,13 +2211,13 @@
     (path "/8c42dada-182a-49c1-bf92-143204f6b7ba/6cd9c08b-87ec-4d11-8a97-0456df5def78"
       (reference "#PWR015") (unit 1) (value "GND") (footprint "")
     )
-    (path "/dd04668a-5239-4bd2-ae67-038a463e12dc/2338658c-a171-455d-ad40-3e03c5e2e649"
+    (path "/dd04668a-5239-4bd2-ae67-038a463e12dc/fdf94941-cfd6-457e-ab4d-afeea3ed65a6"
       (reference "#PWR016") (unit 1) (value "GND") (footprint "")
     )
     (path "/8c42dada-182a-49c1-bf92-143204f6b7ba/2d1357db-3fa5-4880-8466-dcb480ccbbce"
       (reference "#PWR017") (unit 1) (value "GND") (footprint "")
     )
-    (path "/8c42dada-182a-49c1-bf92-143204f6b7ba/2338658c-a171-455d-ad40-3e03c5e2e649"
+    (path "/8c42dada-182a-49c1-bf92-143204f6b7ba/fdf94941-cfd6-457e-ab4d-afeea3ed65a6"
       (reference "#PWR018") (unit 1) (value "GND") (footprint "")
     )
     (path "/dd04668a-5239-4bd2-ae67-038a463e12dc/6cd9c08b-87ec-4d11-8a97-0456df5def78"
@@ -2317,10 +2317,10 @@
       (reference "#PWR050") (unit 1) (value "-12V") (footprint "")
     )
     (path "/8c42dada-182a-49c1-bf92-143204f6b7ba/12a1f0d0-f85d-44de-8a13-dbeb72a868b4"
-      (reference "C1") (unit 1) (value "220n") (footprint "ao_tht:C_Rect_L7.2mm_W7.2mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
+      (reference "C1") (unit 1) (value "220n/2.2uF") (footprint "ao_tht:C_Rect_L7.2mm_W7.2mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
     )
     (path "/dd04668a-5239-4bd2-ae67-038a463e12dc/12a1f0d0-f85d-44de-8a13-dbeb72a868b4"
-      (reference "C2") (unit 1) (value "220n") (footprint "ao_tht:C_Rect_L7.2mm_W7.2mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
+      (reference "C2") (unit 1) (value "220n/2.2uF") (footprint "ao_tht:C_Rect_L7.2mm_W7.2mm_P5.00mm_FKS2_FKP2_MKS2_MKP2")
     )
     (path "/00000000-0000-0000-0000-00005f73fa30"
       (reference "C3") (unit 1) (value "10uF") (footprint "ao_tht:CP_Radial_D6.3mm_P2.50mm")
@@ -2475,8 +2475,8 @@
     (path "/8c42dada-182a-49c1-bf92-143204f6b7ba/96c33868-d76e-47a5-be6d-c61693b91cc4"
       (reference "R13") (unit 1) (value "10k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
-    (path "/dd04668a-5239-4bd2-ae67-038a463e12dc/c72de2df-7932-4fee-8e71-8d34991e36d4"
-      (reference "R14") (unit 1) (value "4.7k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+    (path "/dd04668a-5239-4bd2-ae67-038a463e12dc/544942af-4bc8-48f9-ade9-436e47b2d059"
+      (reference "R14") (unit 1) (value "RL") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8c42dada-182a-49c1-bf92-143204f6b7ba/9b02c8c3-9246-4b4e-8eeb-02118d4739fa"
       (reference "R15") (unit 1) (value "18k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
@@ -2517,8 +2517,8 @@
     (path "/8c42dada-182a-49c1-bf92-143204f6b7ba/1b93edac-d75a-43b7-8ffd-21ca02e00c6a"
       (reference "R27") (unit 1) (value "2.2k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
-    (path "/8c42dada-182a-49c1-bf92-143204f6b7ba/c72de2df-7932-4fee-8e71-8d34991e36d4"
-      (reference "R28") (unit 1) (value "4.7k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+    (path "/8c42dada-182a-49c1-bf92-143204f6b7ba/544942af-4bc8-48f9-ade9-436e47b2d059"
+      (reference "R28") (unit 1) (value "RL") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/dd04668a-5239-4bd2-ae67-038a463e12dc/101b9162-4dd2-4598-8eb9-9b7e9c3ad37f"
       (reference "R29") (unit 1) (value "2.2k") (footprint "ao_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
