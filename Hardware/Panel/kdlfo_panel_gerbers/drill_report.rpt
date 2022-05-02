@@ -1,0 +1,25 @@
+Drill report for kdlfo_panel.kicad_pcb
+Created on Wed Apr 20 20:16:55 2022
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'kdlfo_panel.drl' contains
+    plated through holes:
+    =============================================================
+    T1  3.200mm  0.1260"  (4 holes)  (with 4 slots)
+    T2  5.000mm  0.1969"  (2 holes)
+    T3  7.000mm  0.2756"  (4 holes)
+    T4  10.000mm  0.3937"  (6 holes)
+
+    Total plated holes count 16
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
