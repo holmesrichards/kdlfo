@@ -2,6 +2,8 @@
 
 This is a dual LFO synth module in Kosmo format, based on a [Kassutronics design](https://kassu2000.blogspot.com/2015/10/variable-waveshape-lfo.html). There are three outputs for each LFO. Depending on the shape pot setting these provide ramp, asymmetric triangle, symmetric triangle, or sawtooth waveforms; sine or skewed "sine" waveforms; and narrow, square, or wide pulse waveforms respectively.
 
+Version 1.0 corrects some first run problems. Version 1.0 PCB has not been tested.
+
 ## Current draw
 ? mA +12 V, ? mA -12 V
 
