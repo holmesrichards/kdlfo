@@ -18,7 +18,7 @@ This is a dual LFO synth module in Kosmo format, based on a [Kassutronics design
 * PCB layout: [front](Docs/kdlfo_layout_front.pdf), [back](Docs/kdlfo_layout_back.pdf)
 * [BOM](Docs/kdlfo_bom.md)
 * [Build notes](Docs/build.md)
-* [Blog post]()
+* [Blog post](https://analogoutputblog.wordpress.com/2022/05/11/kassutronics-dual-lfo/)
 
 ## GitHub repository
 
