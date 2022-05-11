@@ -21,7 +21,7 @@ Generated from schematic by Eeschema 6.0.5-a6ca702e91~116~ubuntu20.04.1
 | J15 | 1 | Synth_power_2x5 | Pin header 2.54 mm 2x5 | Tayda | A-2939 |
 | Q1, Q2, Q3, Q4 | 4 | 2N3904 | Small Signal NPN Transistor, TO-92 | Tayda | A-111 |
 | R1, R18 | 2 | 47k | Resistor | Tayda |  |
-| R2, R19 | 2 | 100R | Resistor | Tayda |  |
+| R2, R19 | 2 | 300R | Resistor | Tayda |  |
 | R3, R9, R14, R20, R26, R31 | 6 | 2.2k | Resistor | Tayda |  |
 | R4, R7, R21, R24 | 4 | 10k | Resistor | Tayda |  |
 | R5, R22 | 2 | 390R | Resistor | Tayda |  |
@@ -33,6 +33,7 @@ Generated from schematic by Eeschema 6.0.5-a6ca702e91~116~ubuntu20.04.1
 | R15, R32 | 2 | 1k | Resistor | Tayda |  |
 | R16, R33 | 2 | 2k | Resistor | Tayda |  |
 | R17, R34 | 2 | RL | Resistor | Tayda |  |
+| R35, R36 | 2 | 200R | Resistor | Tayda |  |
 | RV1, RV2, RV3, RV4 | 4 | B100k | Potentiometer | Tayda | A-1984 |
 | RV5, RV6, RV8, RV9 | 4 | B50k | Trim-potentiometer | Tayda | A-598 |
 | RV7, RV10 | 2 | B5k | Trim-potentiometer | Tayda | A-597 |
