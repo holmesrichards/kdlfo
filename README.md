@@ -1,34 +1,35 @@
-This is a work in progress; better README to come soon. Meanwhile:
+# Shape variable dual LFO
 
-**Untested hardware and software — Do not assume anything works!**
+This is a dual LFO synth module in Kosmo format, based on a [Kassutronics design](https://kassu2000.blogspot.com/2015/10/variable-waveshape-lfo.html). There are three outputs for each LFO. Depending on the shape pot setting these provide ramp, asymmetric triangle, symmetric triangle, or sawtooth waveforms; sine or skewed "sine" waveforms; and narrow, square, or wide pulse waveforms respectively.
 
 ## Current draw
- mA +12 V,  mA -12 V
+? mA +12 V, ? mA -12 V
 
 
 ## Photos
 
-![]()
+![front](Images/front.jpg)
 
-![]()
+![front](Images/back.jpg)
 
 ## Documentation
 
-* [Schematic](Docs/.pdf)
-* PCB layout: [front](Docs/_layout_front.pdf), [back](Docs/_layout_back.pdf)
-* [BOM](Docs/_bom.md)
+* [Schematic](Docs/kdlfo.pdf)
+* PCB layout: [front](Docs/kdlfo_layout_front.pdf), [back](Docs/kdlfo_layout_back.pdf)
+* [BOM](Docs/kdlfo_bom.md)
 * [Build notes](Docs/build.md)
+* [Blog post]()
 
 ## GitHub repository
 
-* [https://github.com/holmesrichards/duallfo](https://github.com/holmesrichards/duallfo)
+* [https://github.com/holmesrichards/duallfo](https://github.com/holmesrichards/kdlfo)
 
 ## Submodules
 
 This repo uses submodules aoKicad and Kosmo_panel, which provide needed libaries for KiCad. To clone:
 
 ```
-git clone git@github.com:holmesrichards/duallfo.git
+git clone git@github.com:holmesrichards/kdlfo.git
 git submodule init
 git submodule update
 ```
@@ -37,7 +38,7 @@ git submodule update
 Alternatively do
 
 ```
-git clone --recurse-submodules git@github.com:holmesrichards/duallfo.git
+git clone --recurse-submodules git@github.com:holmesrichards/kdlfo.git
 ```
 
 Or if you download the repository as a zip file, you must also click on the "aoKicad" and "Kosmo\_panel" links on the GitHub page (they'll have "@ something" after them) and download them as separate zip files which you can unzip into this repo's aoKicad and Kosmo\_panel directories.
