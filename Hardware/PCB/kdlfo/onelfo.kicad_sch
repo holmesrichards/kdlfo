@@ -1509,6 +1509,25 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0b82b3a4-6708-4675-a509-00beb9c1db50)
   )
+  (text "Original had inverting LED driver." (at 204.47 100.33 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 0ff58970-4ee5-403f-9f6e-5d40230b254c)
+  )
+  (text "Original value was 100R. I found this was too\nlow for the op amps to drive and caused bad\nbehavior; increased to 300R."
+    (at 45.72 43.18 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 14704577-2439-426b-a780-768ffec86bb9)
+  )
+  (text "Original had JFET based tri to sin; replaced \nwith differential pair shaper."
+    (at 41.91 137.16 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b70ea482-2303-432f-84d8-886aa5384a91)
+  )
+  (text "Added 200R in series with frequency pot\nto establish nonzero minimum frequency."
+    (at 179.07 72.39 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c5c61603-74e8-4882-8c29-77daa6cde0dc)
+  )
 
   (label "SINE_ROUND" (at 81.28 120.65 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
