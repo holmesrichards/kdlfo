@@ -5,7 +5,7 @@ This is a dual LFO synth module in Kosmo format, based on a [Kassutronics design
 Version 1.0 corrects some first run problems. Version 1.0 PCB has not been tested.
 
 ## Current draw
-? mA +12 V, ? mA -12 V
+32 mA +12 V, 32 mA -12 V
 
 
 ## Photos
